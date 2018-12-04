@@ -1,3 +1,8 @@
+Name:-ANUJ SONWANE 
+Division:-M Batch:-3
+Roll no.:-59. Gr no.:-11810837
+        
+        
 n1=0
 n2=1
 n3=0

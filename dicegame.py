@@ -1,3 +1,7 @@
+Name:-ANUJ SONWANE 
+Division:-M Batch:-3
+Roll no.:-59. Gr no.:-11810837
+
 import random
 from random import randint as rt
 def game(dice,faces):
